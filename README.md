@@ -46,8 +46,46 @@ Selamat datang di repository UTS Praktikum Algoritma & Pemrograman Tahun Akademi
      git push origin main
      ```
 
-6. **Kirimkan Link Repository**
-   - Setelah semua jawaban telah ter-push ke repository, kirimkan link repository GitHub Anda melalui media yang telah ditentukan oleh dosen.
+6. ## Langkah-Langkah Membuat Pull Request (PR)
+
+Setelah Anda selesai mengerjakan dan menyimpan semua jawaban di repository GitHub pribadi Anda, ikuti langkah-langkah berikut untuk mengirimkan jawaban Anda melalui Pull Request (PR) ke repository utama.
+
+1. **Pastikan Semua Jawaban Sudah Dipush ke Repository Pribadi**
+   - Setelah menyelesaikan semua soal, pastikan Anda sudah melakukan push semua file ke repository GitHub pribadi Anda.
+   - Gunakan perintah berikut untuk menambahkan, commit, dan push file Anda:
+     ```bash
+     git add .
+     git commit -m "Menyelesaikan semua soal UTS"
+     git push origin main
+     ```
+
+2. **Buka Repository Pribadi di GitHub**
+   - Masuk ke akun GitHub Anda dan buka repository hasil fork dari `UTS-Praktikum-Algoritma-2024`.
+
+3. **Mulai Membuat Pull Request**
+   - Di halaman utama repository, klik tombol **Pull Request** di bagian atas.
+   - Klik tombol **New Pull Request** untuk memulai proses PR.
+
+4. **Pilih Repository dan Branch yang Tepat**
+   - Di bagian ini, pastikan Anda membuat PR dari repository pribadi (fork) Anda menuju repository utama.
+   - Sebagai contoh:
+     - **Head Repository**: Pilih repository Anda sendiri (`username/UTS-Praktikum-Algoritma-2024`).
+     - **Base Repository**: Pilih repository utama (`owner/UTS-Praktikum-Algoritma-2024`).
+   - Pastikan branch yang dipilih adalah `main` untuk keduanya.
+
+5. **Isi Judul dan Deskripsi PR**
+   - Beri judul PR sesuai format berikut: `PR Nama_NIM`. Contoh: `PR Budi_123456`.
+   - Di bagian deskripsi, Anda bisa menambahkan catatan atau penjelasan singkat mengenai jawaban yang dikumpulkan (opsional).
+
+6. **Kirim Pull Request**
+   - Klik **Create Pull Request** untuk mengirimkan PR ke repository utama.
+   - Setelah PR berhasil dibuat, tunggu instruksi lebih lanjut atau review dari dosen/pengajar.
+
+---
+
+**Catatan Penting**:
+- Pastikan nama folder dan file sudah sesuai dengan instruksi.
+- Anda bisa mengedit PR jika ada revisi yang ingin ditambahkan sebelum disetujui oleh dosen.
 
 ---
 
