@@ -47,7 +47,7 @@ Selamat datang di repository UTS Praktikum Algoritma & Pemrograman Tahun Akademi
      ```
 
 6. **Kirimkan Link Repository**
-   - Setelah semua jawaban telah ter-push ke repository, kirimkan link repository GitHub Anda melalui media yang telah ditentukan oleh dosen (misalnya, melalui LMS atau email).
+   - Setelah semua jawaban telah ter-push ke repository, kirimkan link repository GitHub Anda melalui media yang telah ditentukan oleh dosen.
 
 ---
 
@@ -63,7 +63,7 @@ Selamat datang di repository UTS Praktikum Algoritma & Pemrograman Tahun Akademi
 ## C. Ketentuan dan Batas Waktu
 
 - Ujian ini bersifat **take-home** dan harus dikerjakan secara **mandiri**.
-- **Batas waktu pengumpulan**: [Tanggal & waktu]
+- **Batas waktu pengumpulan**: 11-11-2024 Pukul 23.00
 - **Tidak diperkenankan** untuk bekerja sama atau menduplikasi jawaban dari teman.
 - Keterlambatan dalam mengumpulkan jawaban akan dikenakan pengurangan nilai sesuai kebijakan yang berlaku.
 
