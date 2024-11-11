@@ -70,7 +70,7 @@ Buatlah program yang meminta pengguna untuk memasukkan sebuah kalimat, lalu meng
   - Jumlah huruf vokal dalam kalimat
 
 ### Contoh Output:
-Masukkan kalimat: Selamat datang di dunia pemrograman Jumlah huruf vokal: 11
+Masukkan kalimat: Selamat datang di dunia pemrograman Jumlah huruf vokal: 13
 
 
 ---
